@@ -528,6 +528,7 @@ header {
 
 .footer {
     margin-top: 120px;
+    margin-bottom: 50px;
 }
 
 .footer__logo-text {
@@ -550,11 +551,11 @@ header {
 }
 
 .footer__link-2 {
-    padding: 9px 12px 8.63px 12px;
+    padding: 8px 10px 7.630000000000003px 10px;
 }
 
 .footer__link-1 {
-    padding: 9px 14.5px 8px 14.5px;   
+    padding: 9px 11.5px 5px 11.5px;
 }
 
 .footer__links-2 {
@@ -562,7 +563,7 @@ header {
 }
 
 .footer__links-3 {
-    padding: 10px 10px 9px 10px;
+    padding: 9px  8px 8px 8px;
 }
 
 .footer__text {
